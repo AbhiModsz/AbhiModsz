@@ -1,11 +1,10 @@
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:00FFD1,100:7B2CFF&text=AbhiModsz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Android%20Modding%20%7C%20Python%20%7C%20Telegram%20Bots&descSize=17&descColor=00FFD1&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:000000,50:00FFD1,100:7B2CFF&text=AbhiModsz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20Modding%20%7C%20Python%20%7C%20Telegram%20Bots&descSize=17&descColor=00FFD1&descAlignY=58" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+AbhiModsz+%F0%9F%91%8B;Android+Modder+%F0%9F%93%B1;Python+Developer+%F0%9F%90%8D;Telegram+Bot+Developer+%F0%9F%A4%96;Building+Cool+Projects+%F0%9F%94%A5" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+AbhiModsz+%F0%9F%91%8B;Android+Modder+%F0%9F%93%B1;Python+Developer+%F0%9F%90%8D;Telegram+Bot+Developer+%F0%9F%A4%96;Building+Cool+Projects+%F0%9F%94%A5" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=AbhiModsz&label=PROFILE%20VIEWS&color=00FFD1&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AbhiModsz&label=PROFILE%20VIEWS&color=00FFD1&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -93,7 +92,6 @@ me = AbhiModsz()
 
 ---
 
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -101,7 +99,6 @@ me = AbhiModsz()
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiModsz&theme=tokyo-night&hide_border=true&area=true&v=2" width="100%" alt="AbhiModsz Contribution Graph"/>
   </a>
 </div>
-
 
 ---
 
