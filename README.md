@@ -12,30 +12,9 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AbhiModsz:
-    def __init__(self):
-        self.username = "AbhiModsz"
-        self.role = "Developer & Android Modder"
-        self.languages = ["Python", "C++", "Lua"]
-        self.interests = [
-            "Android Modding",
-            "Telegram Bot Development",
-            "Game Mod Menus",
-            "Automation",
-            "Open Source Projects"
-        ]
-        self.currently_learning = [
-            "Advanced Python",
-            "Android Development",
-            "Backend Development"
-        ]
-
-    def motto(self):
-        return "Keep Learning. Keep Building. Keep Improving."
-
-me = AbhiModsz()
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/main/about.svg" width="100%" alt="About AbhiModsz"/>
+</div>
 
 - 🔭 Working on Android modding and Telegram bot projects.
 - 🤖 Building automation tools and Telegram bots.
