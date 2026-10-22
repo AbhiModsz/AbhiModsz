@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,lua,git,github,linux,bash,mongodb,mysql,flask,vscode,androidstudio&perline=6" alt="Languages and tools"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,php,js,java,python,lua,git,github,linux,bash,mongodb,mysql,flask,vscode,androidstudio&perline=6" alt="Languages and tools"/>
 
 </div>
 
