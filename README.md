@@ -93,11 +93,15 @@ me = AbhiModsz()
 
 ---
 
+
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiModsz&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <a href="https://github.com/AbhiModsz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiModsz&theme=tokyo-night&hide_border=true&area=true&v=2" width="100%" alt="AbhiModsz Contribution Graph"/>
+  </a>
 </div>
+
 
 ---
 
