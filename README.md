@@ -96,9 +96,7 @@ me = AbhiModsz()
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiModsz&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiModsz&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -106,9 +104,11 @@ me = AbhiModsz()
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
