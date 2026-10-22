@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="510" viewBox="0 0 800 510">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#00FFD1"/>
+<stop offset="1" stop-color="#7B2CFF"/>
+</linearGradient>
+</defs>
+<style>
+text{font-family:'Fira Code',Consolas,monospace;font-size:14px;fill:#e6edf3}
+.k{fill:#ff79c6}.f{fill:#50fa7b}.s{fill:#f1fa8c}.v{fill:#8be9fd}.c{fill:#6272a4}
+.l{opacity:0;animation:in .5s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:none}}
+.b{fill:none;stroke:url(#g);stroke-width:2.5;stroke-dasharray:2400;stroke-dashoffset:2400;animation:draw 3s ease-out forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.cur{fill:#00FFD1;animation:blink 1s steps(1) infinite;animation-delay:8s;opacity:0}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.glow{animation:pulse 3s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+</style>
+
+<rect x="2" y="2" width="796" height="506" rx="14" fill="#0d1117"/>
+<rect class="b" x="2" y="2" width="796" height="506" rx="14"/>
+<rect x="2" y="2" width="796" height="36" rx="14" fill="#161b22"/>
+<circle class="glow" cx="26" cy="20" r="6" fill="#ff5f56"/>
+<circle class="glow" cx="46" cy="20" r="6" fill="#ffbd2e"/>
+<circle class="glow" cx="66" cy="20" r="6" fill="#27c93f"/>
+<text x="340" y="25" class="c">about_me.py</text>
+
+<text class="l" style="animation-delay:.3s" x="30" y="70"><tspan class="k">class</tspan> <tspan class="v">AbhiModsz</tspan>:</text>
+<text class="l" style="animation-delay:.6s" x="64" y="92"><tspan class="k">def</tspan> <tspan class="f">__init__</tspan>(<tspan class="v">self</tspan>):</text>
+<text class="l" style="animation-delay:.9s" x="98" y="114"><tspan class="v">self</tspan>.username = <tspan class="s">"AbhiModsz"</tspan></text>
+<text class="l" style="animation-delay:1.2s" x="98" y="136"><tspan class="v">self</tspan>.role = <tspan class="s">"Developer &amp; Android Modder"</tspan></text>
+<text class="l" style="animation-delay:1.5s" x="98" y="158"><tspan class="v">self</tspan>.languages = [<tspan class="s">"Python"</tspan>, <tspan class="s">"C++"</tspan>, <tspan class="s">"Lua"</tspan>]</text>
+<text class="l" style="animation-delay:1.8s" x="98" y="180"><tspan class="v">self</tspan>.interests = [</text>
+<text class="l" style="animation-delay:2.1s" x="132" y="202"><tspan class="s">"Android Modding"</tspan>,</text>
+<text class="l" style="animation-delay:2.4s" x="132" y="224"><tspan class="s">"Telegram Bot Development"</tspan>,</text>
+<text class="l" style="animation-delay:2.7s" x="132" y="246"><tspan class="s">"Game Mod Menus"</tspan>,</text>
+<text class="l" style="animation-delay:3s" x="132" y="268"><tspan class="s">"Automation"</tspan>,</text>
+<text class="l" style="animation-delay:3.3s" x="132" y="290"><tspan class="s">"Open Source Projects"</tspan></text>
+<text class="l" style="animation-delay:3.6s" x="98" y="312">]</text>
+<text class="l" style="animation-delay:3.9s" x="98" y="334"><tspan class="v">self</tspan>.currently_learning = [</text>
+<text class="l" style="animation-delay:4.2s" x="132" y="356"><tspan class="s">"Advanced Python"</tspan>,</text>
+<text class="l" style="animation-delay:4.5s" x="132" y="378"><tspan class="s">"Android Development"</tspan>,</text>
+<text class="l" style="animation-delay:4.8s" x="132" y="400"><tspan class="s">"Backend Development"</tspan></text>
+<text class="l" style="animation-delay:5.1s" x="98" y="422">]</text>
+<text class="l" style="animation-delay:5.5s" x="64" y="448"><tspan class="k">def</tspan> <tspan class="f">motto</tspan>(<tspan class="v">self</tspan>):</text>
+<text class="l" style="animation-delay:5.9s" x="98" y="470"><tspan class="k">return</tspan> <tspan class="s">"Keep Learning. Keep Building. Keep Improving."</tspan></text>
+<text class="l" style="animation-delay:6.5s" x="30" y="496">me = <tspan class="f">AbhiModsz</tspan>()</text>
+<rect class="cur" x="170" y="484" width="9" height="16"/>
+</svg>
