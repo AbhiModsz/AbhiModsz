@@ -96,7 +96,7 @@ me = AbhiModsz()
 
 <div align="center">
   <a href="https://github.com/AbhiModsz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiModsz&theme=tokyo-night&hide_border=true&area=true&v=2" width="100%" alt="AbhiModsz Contribution Graph"/>
+    <img src="https://ghchart.rshah.org/00FFD1/AbhiModsz" width="100%" alt="AbhiModsz Contribution Graph"/>
   </a>
 </div>
 
