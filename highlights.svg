@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+<style>
+text{font-family:'Fira Code',Consolas,monospace;font-size:16px;font-weight:600}
+.r{opacity:0;animation:in .7s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateX(-70px)}to{opacity:1;transform:none}}
+.box{fill:#0d1117;stroke-width:1.8;animation:glow 3s ease-in-out infinite}
+@keyframes glow{0%,100%{stroke-opacity:.3}50%{stroke-opacity:1}}
+.e{font-size:24px;font-weight:400;animation:bob 2s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+</style>
+
+<g class="r" style="animation-delay:.2s">
+<rect class="box" x="20" y="20" width="760" height="52" rx="12" style="stroke:#00FFD1"/>
+<rect x="20" y="20" width="8" height="52" rx="4" fill="#00FFD1"/>
+<text class="e" x="48" y="55">🔭</text>
+<text x="90" y="52" style="fill:#00FFD1">Working on Android modding and Telegram bot projects.</text>
+</g>
+
+<g class="r" style="animation-delay:.6s">
+<rect class="box" x="20" y="84" width="760" height="52" rx="12" style="stroke:#a970ff;animation-delay:.4s"/>
+<rect x="20" y="84" width="8" height="52" rx="4" fill="#a970ff"/>
+<text class="e" x="48" y="119" style="animation-delay:.3s">🤖</text>
+<text x="90" y="116" style="fill:#a970ff">Building automation tools and Telegram bots.</text>
+</g>
+
+<g class="r" style="animation-delay:1s">
+<rect class="box" x="20" y="148" width="760" height="52" rx="12" style="stroke:#ff79c6;animation-delay:.8s"/>
+<rect x="20" y="148" width="8" height="52" rx="4" fill="#ff79c6"/>
+<text class="e" x="48" y="183" style="animation-delay:.6s">📱</text>
+<text x="90" y="180" style="fill:#ff79c6">Interested in Android customization and game mod menus.</text>
+</g>
+
+<g class="r" style="animation-delay:1.4s">
+<rect class="box" x="20" y="212" width="760" height="52" rx="12" style="stroke:#50fa7b;animation-delay:1.2s"/>
+<rect x="20" y="212" width="8" height="52" rx="4" fill="#50fa7b"/>
+<text class="e" x="48" y="247" style="animation-delay:.9s">🐍</text>
+<text x="90" y="244" style="fill:#50fa7b">Developing projects with Python.</text>
+</g>
+
+<g class="r" style="animation-delay:1.8s">
+<rect class="box" x="20" y="276" width="760" height="52" rx="12" style="stroke:#f1fa8c;animation-delay:1.6s"/>
+<rect x="20" y="276" width="8" height="52" rx="4" fill="#f1fa8c"/>
+<text class="e" x="48" y="311" style="animation-delay:1.2s">🌱</text>
+<text x="90" y="308" style="fill:#f1fa8c">Always learning new technologies.</text>
+</g>
+
+<g class="r" style="animation-delay:2.2s">
+<rect class="box" x="20" y="340" width="760" height="52" rx="12" style="stroke:#ffb86c;animation-delay:2s"/>
+<rect x="20" y="340" width="8" height="52" rx="4" fill="#ffb86c"/>
+<text class="e" x="48" y="375" style="animation-delay:1.5s">🎯</text>
+<text x="90" y="372" style="fill:#ffb86c">Goal: Build useful tools and share them with the community.</text>
+</g>
+
+<g class="r" style="animation-delay:2.6s">
+<rect class="box" x="20" y="404" width="760" height="52" rx="12" style="stroke:#8be9fd;animation-delay:2.4s"/>
+<rect x="20" y="404" width="8" height="52" rx="4" fill="#8be9fd"/>
+<text class="e" x="48" y="439" style="animation-delay:1.8s">⚡</text>
+<text x="90" y="436" style="fill:#8be9fd">Fun fact: I love turning ideas into working projects!</text>
+</g>
+</svg>
