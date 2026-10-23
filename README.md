@@ -96,7 +96,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/main/support.svg" width="100%" alt="Support My Work"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:7B2CFF&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/main/footer.svg" width="100%" alt="Footer"/>
 </div>.
 
 <div align="center">
