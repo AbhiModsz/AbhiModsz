@@ -100,9 +100,3 @@
 </div>.
 
 <div align="center">
-
-### ⚡ Code. Create. Innovate. Repeat. ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:7B2CFF&height=120&section=footer" width="100%"/>
-
-</div>
