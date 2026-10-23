@@ -16,13 +16,11 @@
   <img src="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/main/about.svg" width="100%" alt="About AbhiModsz"/>
 </div>
 
-- 🔭 Working on Android modding and Telegram bot projects.
-- 🤖 Building automation tools and Telegram bots.
-- 📱 Interested in Android customization and game mod menus.
-- 🐍 Developing projects with Python.
-- 🌱 Always learning new technologies.
-- 🎯 Goal: Build useful tools and share them with the community.
-- ⚡ Fun fact: I love turning ideas into working projects!
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbhiModsz/AbhiModsz/main/highlights.svg" width="100%" alt="Highlights"/>
+</div>
 
 ---
 
